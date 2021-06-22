@@ -1,0 +1,12 @@
+{
+  "name": "Safe",
+  "displayName": "Safe",
+  "expo": {
+    "name": "Safe",
+    "slug": "Safe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
